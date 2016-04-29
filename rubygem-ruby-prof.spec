@@ -4,7 +4,7 @@
 #
 Name     : rubygem-ruby-prof
 Version  : 0.15.9
-Release  : 6
+Release  : 7
 URL      : https://rubygems.org/downloads/ruby-prof-0.15.9.gem
 Source0  : https://rubygems.org/downloads/ruby-prof-0.15.9.gem
 Summary  : No detailed summary available
